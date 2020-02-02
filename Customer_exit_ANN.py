@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Importing the dataset
-dataset = pd.read_csv('D:\Docs\DS\Customer_exit_ANN\BankCustomers.csv')
+dataset = pd.read_csv('BankCustomers.csv')
 
 # Stroring 3rd column to 13th column in x
 # First and second column are not important for the model
